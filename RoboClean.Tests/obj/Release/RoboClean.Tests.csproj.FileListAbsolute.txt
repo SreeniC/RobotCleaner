@@ -1,0 +1,7 @@
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Tests\bin\Release\RoboClean.Tests.dll
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Tests\bin\Release\RoboClean.Tests.pdb
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Tests\bin\Release\RoboClean.dll
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Tests\bin\Release\RoboClean.pdb
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Tests\obj\Release\RoboClean.Tests.csprojResolveAssemblyReference.cache
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Tests\obj\Release\RoboClean.Tests.dll
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Tests\obj\Release\RoboClean.Tests.pdb

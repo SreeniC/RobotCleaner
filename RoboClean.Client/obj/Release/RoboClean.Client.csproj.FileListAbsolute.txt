@@ -1,0 +1,8 @@
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Client\bin\Release\RoboClean.Client.exe.config
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Client\bin\Release\RoboClean.Client.exe
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Client\bin\Release\RoboClean.Client.pdb
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Client\bin\Release\RoboClean.dll
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Client\bin\Release\RoboClean.pdb
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Client\obj\Release\RoboClean.Client.csprojResolveAssemblyReference.cache
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Client\obj\Release\RoboClean.Client.exe
+C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean.Client\obj\Release\RoboClean.Client.pdb
