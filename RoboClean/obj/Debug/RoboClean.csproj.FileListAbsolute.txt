@@ -2,4 +2,3 @@ c:\users\win\documents\visual studio 2012\Projects\RoboClean\RoboClean\bin\Debug
 c:\users\win\documents\visual studio 2012\Projects\RoboClean\RoboClean\bin\Debug\RoboClean.pdb
 c:\users\win\documents\visual studio 2012\Projects\RoboClean\RoboClean\obj\Debug\RoboClean.dll
 c:\users\win\documents\visual studio 2012\Projects\RoboClean\RoboClean\obj\Debug\RoboClean.pdb
-C:\Users\win\Documents\Visual Studio 2012\Projects\RoboClean\RoboClean\obj\Debug\RoboClean.csprojResolveAssemblyReference.cache

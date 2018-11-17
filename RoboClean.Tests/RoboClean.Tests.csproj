@@ -55,7 +55,6 @@
     <Compile Include="LocationTest.cs" />
     <Compile Include="RoboTest.cs" />
     <Compile Include="TestReporter.cs" />
-    <Compile Include="ReportTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\RoboClean\RoboClean.csproj">
