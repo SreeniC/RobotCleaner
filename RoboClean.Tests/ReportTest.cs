@@ -36,8 +36,8 @@ namespace RoboClean.Tests
             timer.Stop();
             var elapsedTimeSet2 = timer.Elapsed;
 
-            Assert.IsTrue(elapsedTimeSet2.Milliseconds < elapsedTimeSet1.Milliseconds * 8,
-                elapsedTimeSet2.Milliseconds + " Vs " + elapsedTimeSet1.Milliseconds * 8);
+            Assert.IsTrue(elapsedTimeSet2.Milliseconds <= elapsedTimeSet1.Milliseconds * 10,
+                elapsedTimeSet2.Milliseconds + " Vs " + elapsedTimeSet1.Milliseconds * 10);
         }
     }
 }
